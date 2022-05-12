@@ -19,7 +19,7 @@ Note :
 | Num    | Topic                  | Public Score | Private Score |
 | :----- | :----------------------| :-----------:| :------------:|
 | 1      | Regression             | 0.89477      | 0.91152       |
-| 2      | Classification         | 0.74934.     | 0.74925.      |
+| 2      | Classification         | 0.74934      | 0.74925       |
 | 3      | CNN                    | 0.82437      | 0.81829       |
 | 4      | Self-Attention         | 0.95595      | 0.95333       |
 | 5      | Transformer            | N/A          | N/A           |
