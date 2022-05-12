@@ -9,7 +9,7 @@ Instructor: Hung-yi Lee
 
 Note :  
   * All of the projects run on Jupter Notebook(.ipynb ), remember to adjust the environment setting ( Colab drive mount, file directory... ) before you use it
-  * To get the source data, you can reference the content in each project file or slide of each project introduction on course web 
+  * To get the source data, you can reference the content in each project file or the slide of each project introduction on course web 
    
   * I mainly focus on understanding the concept and the implementation of the related models, you can further enhance the result by adjusting model architecture/parameters yourself : ) 
 
@@ -28,8 +28,8 @@ Note :
 | 12     | Reinforcement Learning | N/A          | N/A           |
 
 
-  * Score is the test result from opened kaggle platform, N/A means the test platform is not opened to not NTU students, reference the kaggle info on course web
-  * You can see more info and learning keywords in corresponding project page  
+  * Score is the test result from the opened kaggle platform, N/A means the test platform is not opened to non NTU students, reference the kaggle info on course web
+  * You can see more info and learning keywords in the corresponding project page  
 
 
 
