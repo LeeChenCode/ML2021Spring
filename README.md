@@ -24,7 +24,7 @@ Note :
 | 4      | Self-Attention         | 0.95595      | 0.95333       |
 | 5      | Transformer            | N/A          | N/A           |
 | 6      | GAN                    | N/A          | N/A           |
-| 7.     | BERT                   | 0.82723      | 0.82979       |
+| 7      | BERT                   | 0.82723      | 0.82979       |
 | 12     | Reinforcement Learning | N/A          | N/A           |
 
 
