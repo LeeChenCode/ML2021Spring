@@ -14,9 +14,10 @@ Self-Attention
   * AM-Softmax
 
 ### **Results**
-| Public Score | Private Score |
-| :-----------:| :------------:|
-| 0.95595      | 0.95333       |
+| Model        | Public Score | Private Score |
+|:-------------| :-----------:| :------------:|
+| Transformer  | 0.94166      | 0.94611       |
+| Conformer    | 0.95595      | 0.95333       |
 
 ### **Observations & Summaries**
   * Much more layers/dimensions for the network will help to learn the relevance between each audio segment, 
