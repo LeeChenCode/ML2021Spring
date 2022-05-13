@@ -1,5 +1,5 @@
 # ML2021Spring
-There are my course projects for the 2021 Spring Machine Learning course at the National Taiwan University (NTU)
+There are my projects for the 2021 Spring Machine Learning course at the National Taiwan University (NTU)
 
 Course Web : https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
 
