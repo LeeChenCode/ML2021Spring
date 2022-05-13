@@ -23,8 +23,8 @@ Self-Attention
     try to enlarge network depends on your CUDA memory size
 
 ### **To-Do Enhancements**
-  * Parameter Tuning ( epoch, learning rate with warmup... )
-  * Network Tuning ( layers, dimension, other CNN models...)
+  * Parameter Tuning 
+  * Network Tuning ( Transformer, Conformer )
 
 
 ### **Reference**
