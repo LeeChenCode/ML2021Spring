@@ -16,16 +16,16 @@ Note :
 # Course Porjects
 ---
 
-| Num    | Topic                  | Public Score | Private Score |
-| :----- | :----------------------| :-----------:| :------------:|
-| 1      | Regression             | 0.89477      | 0.91152       |
-| 2      | Classification         | 0.74934      | 0.74925       |
-| 3      | CNN                    | 0.82437      | 0.81829       |
-| 4      | Self-Attention         | 0.95595      | 0.95333       |
-| 5      | Transformer            | N/A          | N/A           |
-| 6      | GAN                    | N/A          | N/A           |
-| 7      | BERT                   | 0.82723      | 0.82979       |
-| 12     | Reinforcement Learning | N/A          | N/A           |
+| Num    | Topic                      | Model                  | Public Score | Private Score |
+| :----- | :--------------------------| :----------------------| :-----------:| :------------:|
+| 1      | COVID-19 Cases Prediction  | Regression             | 0.89477      | 0.91152       |
+| 2      | Phoneme Classification     | Classification         | 0.74934      | 0.74925       |
+| 3      | Food Classification        | CNN                    | 0.82437      | 0.81829       |
+| 4      | Speaker classification     | Self-Attention         | 0.95595      | 0.95333       |
+| 5      | Neural Machine Translation | Transformer            | N/A          | N/A           |
+| 6      | Anime Face Generation      | GAN                    | N/A          | N/A           |
+| 7      | Question Answering         | BERT                   | 0.82723      | 0.82979       |
+| 12     | Lunar Lander               | Reinforcement Learning | N/A          | N/A           |
 
 
   * Score is the test result from the opened kaggle platform, N/A means the test platform is not opened to non NTU students, reference the kaggle info on course web
