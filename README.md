@@ -21,7 +21,7 @@ Note :
 | 1      | COVID-19 Cases Prediction  | Regression             | 0.89477      | 0.91152       |
 | 2      | Phoneme Classification     | Classification         | 0.74934      | 0.74925       |
 | 3      | Food Classification        | CNN                    | 0.82437      | 0.81829       |
-| 4      | Speaker classification     | Self-Attention         | 0.95595      | 0.95333       |
+| 4      | Speaker Classification     | Self-Attention         | 0.95595      | 0.95333       |
 | 5      | Neural Machine Translation | Transformer            | N/A          | N/A           |
 | 6      | Anime Face Generation      | GAN                    | N/A          | N/A           |
 | 7      | Question Answering         | BERT                   | 0.82723      | 0.82979       |
